@@ -10,6 +10,8 @@ I recommend you read through this document to understand more on how this projec
 
 For an in-depth set up guide, see the [Development Guide](docs/development/README.md).
 
+For a webinar training walk thru visit https://youtu.be/wko93JCYwKk
+
 ## Clean Architecture
 
 We try to follow Clean Architecture patterns to ensure our code is clean and concise. Clean Architecture defines clear boundaries between different parts of the service, from external `Gateways` to `usecase`s that build on business rules to perform tasks.
